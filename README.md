@@ -1,1 +1,2 @@
-# bridge-simulator
+# Bridge Game Simulator
+
